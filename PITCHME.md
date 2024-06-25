@@ -272,7 +272,7 @@ In analogue to the requirements on libraries, application program needs to be tr
 
 - The [Quantum ESPRESSO](https://www.pdc.kth.se/software/software/Quantum-ESPRESSO/index_general.html) integrated suite of open-source computer codes for electronic-structure calculations and materials modeling at the nanoscale
 
-- [CP2K](https://www.pdc.kth.se/software/software/cp2k/index_general.html), a program to perform ato1mistic and molecular simulations of solid state, liquid, molecular, and biological systems.
+- [CP2K](https://www.pdc.kth.se/software/software/cp2k/index_general.html), a program to perform atomistic and molecular simulations of solid state, liquid, molecular, and biological systems.
 
 ---
 
@@ -422,7 +422,7 @@ Reference page: [General information about RSPt](https://www.pdc.kth.se/software
 
 ```
 ml PDC/23.12 easybuild-user/4.9.1
-eb rspt-20231004-cpeGNU-23.12.eb --robot --robot
+eb rspt-20231004-cpeGNU-23.12.eb --robot --rebuild
 ```
 
 - RSPt easyconfigs for Dardel and LUMI
